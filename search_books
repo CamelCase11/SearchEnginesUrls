@@ -1,7 +1,7 @@
-BookZZ,http://bookzz.org/s/?q=,false
+BookZZ,http://bookzz.org/s/?q=,false;
 
-Google,http://www.google.com/search?q=filetype:(pdf | ppt | doc | docx | pptx | epub | mobi)+,true
+Google,http://www.google.com/search?q=filetype:(pdf | ppt | doc | docx | pptx | epub | mobi)+,true;
 
-Google Books,http://www.google.com/search?tbm=bks&q=,true
+Google Books,http://www.google.com/search?tbm=bks&q=,true;
 
-Google Scholar,https://scholar.google.com/scholar?hl=en&q=,true
+Google Scholar,https://scholar.google.com/scholar?hl=en&q=,true;
