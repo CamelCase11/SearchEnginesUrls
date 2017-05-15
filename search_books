@@ -1,6 +1,4 @@
-BookZZ,http://bookzz.org/s/?q=,false;
-
-Google,http://www.google.com/search?q=filetype:(pdf | ppt | doc | docx | pptx | epub | mobi)+,true;
+Gutenberg,https://www.goodreads.com/search?utf8=%E2%9C%93&query=,true;
 
 Google Books,http://www.google.com/search?tbm=bks&q=,true;
 
