@@ -1,5 +1,5 @@
 Gutenberg,https://www.goodreads.com/search?utf8=%E2%9C%93&query=,true;
 
-Google Books,http://www.google.com/search?tbm=bks&q=,true;
+Goodreads,https://www.goodreads.com/search?utf8=%E2%9C%93&query=,true;
 
-Google Scholar,https://scholar.google.com/scholar?hl=en&q=,true;
+Abebooks,https://www.abebooks.com/servlet/SearchResults?sts=t&an=&kn=&isbn=&tn=,true;
