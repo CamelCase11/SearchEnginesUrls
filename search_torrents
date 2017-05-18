@@ -1,5 +1,7 @@
 FileListing,http://filelisting.com/result?f=0&d=1&q=,true;
 
+Skytorrents,https://www.skytorrents.in/search/all/ed/1/?l=en-us&q=,true;
+
 Google,http://www.google.com/search?q=intext:btih+,false;
 
 TorrentSeeker,https://torrentseeker.com/search.php?q=,true;
@@ -12,6 +14,8 @@ Torrentz2,https://torrentz2.eu/search?f=,false;
 
 Rarbg,https://rarbg.to/torrents.php?search=,false;
 
-ExtraTorrent,https://extratorrent.cc/search/?new=1&x=0&y=0&search=,false;
-
 Rutracker,https://rutracker.org/forum/search_cse.php?cx=014434608714260776013%3Aggcq1kovlga&cof=FORID%3A9&ie=utf-8&sa=%D0%9F%D0%BE%D0%B8%D1%81%D0%BA+%D0%B2+Google&q=,true;
+
+LimeTorrent,https://www.limetorrents.cc/search/all/,false;
+
+7Tor,http://7tor.org/search.php?sr=topics&sf=titleonly&fp=0&tracker_search=torrent&keywords=,false;
