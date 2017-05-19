@@ -8,4 +8,8 @@ Ixquick,https://www.ixquick.com/do/search?q=,true;
 
 Yandex,https://www.yandex.com/search/?text=,true;
 
-Ask,http://www.ask.com/web?q=,true;
+Searx,https://searx.me/?categories=general&q=,true;
+
+Qwant,https://www.qwant.com/?t=all&q=,true;
+
+Gibiru,http://gibiru.com/?cx=partner-pub-5956360965567042%3A8627692578&cof=FORID%3A11&ie=UTF-8&sa=Anon+Web+Search&siteurl=https%3A%2F%2Fwww.google.co.in%2F&q=,true;
