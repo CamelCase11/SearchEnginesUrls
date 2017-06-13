@@ -1,4 +1,4 @@
-BookZZ,http://bookzz.org/s/?q=,false;
+BookZZ,http://b-ok.org/s/?q=,false;
 
 Google,http://www.google.com/search?q=filetype:(pdf | ppt | doc | docx | pptx | epub | mobi)+,true;
 
