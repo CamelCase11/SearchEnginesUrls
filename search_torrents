@@ -6,7 +6,7 @@ Google,http://www.google.com/search?q=intext:btih+,false;
 
 TorrentSeeker,https://torrentseeker.com/search.php?q=,true;
 
-BTDB,http://btdb.in/q/,false;
+BTDB,http://btdb.to/q/,false;
 
 Torrent Project,https://torrentproject.se/?t=,false;
 
