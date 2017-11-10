@@ -2,12 +2,12 @@
     "web" : [
         {
             "name" : "Google",
-            "url" : "http://www.google.com/search?q=",
+            "url" : "https://www.google.com/search?q=",
             "enableJs" : true
         },
         {
             "name" : "Bing",
-            "url" : "http://www.bing.com/?q=",
+            "url" : "https://www.bing.com/?q=",
             "enableJs" : true
         },
         {
@@ -37,7 +37,7 @@
         },
         {
             "name" : "Gibiru",
-            "url" : "http://gibiru.com/?cx=partner-pub-5956360965567042:8627692578&cof=FORID:11&ie=UTF-8&sa=Anon+Web+Search&siteurl=https://www.google.com/&q=",
+            "url" : "https://gibiru.com/?cx=partner-pub-5956360965567042:8627692578&cof=FORID:11&ie=UTF-8&sa=Anon+Web+Search&siteurl=https://www.google.com/&q=",
             "enableJs" : true
         }
     ],
@@ -55,17 +55,17 @@
         },
         {
             "name" : "Deviant Art",
-            "url" : "http://www.deviantart.com/browse/all/?section=&global=1&q=",
+            "url" : "https://www.deviantart.com/browse/all/?section=&global=1&q=",
             "enableJs" : true
         },
         {
             "name" : "Getty Images",
-            "url" : "http://www.gettyimages.com/photos/test?family=creative&license=rf&phrase=",
+            "url" : "https://www.gettyimages.com/photos/test?family=creative&license=rf&phrase=",
             "enableJs" : true
         },
         {
             "name" : "PicSearch",
-            "url" : "http://www.picsearch.com/index.cgi?q=",
+            "url" : "https://www.picsearch.com/index.cgi?q=",
             "enableJs" : true
         },
         {
@@ -93,22 +93,22 @@
         },
         {
             "name" : "Dailymotion",
-            "url" : "http://dailymotion.com/relevance/search/",
+            "url" : "https://dailymotion.com/relevance/search/",
             "enableJs" : true
         },
         {
             "name" : "Vimeo",
-            "url" : "http://vimeo.com/search?q=",
+            "url" : "https://vimeo.com/search?q=",
             "enableJs" : true
         },
         {
             "name" : "BlinkX",
-            "url" : "http://www.blinkx.com/search/",
+            "url" : "https://www.blinkx.com/search/",
             "enableJs" : true
         },
         {
             "name" : "Veoh",
-            "url" : "http://veoh.com/m/search_result.php?query",
+            "url" : "https://veoh.com/m/search_result.php?query",
             "enableJs" : true
         }
     ],
@@ -116,22 +116,22 @@
     "books" : [
         {
             "name" : "BookZZ",
-            "url" : "http://b-ok.org/s/?q=",
+            "url" : "https://b-ok.org/s/?q=",
             "enableJs" : false
         },
         {
             "name" : "LibGen",
-            "url" : "http://libgen.io/search.php?lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def&req=",
+            "url" : "https://libgen.io/search.php?lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def&req=",
             "enableJs" : true
         },
         {
             "name" : "Google",
-            "url" : "http://www.google.com/search?q=filetype:(pdf | ppt | doc | docx | pptx | epub | mobi)+",
+            "url" : "https://www.google.com/search?q=filetype:(pdf | ppt | doc | docx | pptx | epub | mobi)+",
             "enableJs" : true
         },
         {
             "name" : "Google Books",
-            "url" : "http://www.google.com/search?tbm=bks&q=",
+            "url" : "https://www.google.com/search?tbm=bks&q=",
             "enableJs" : true
         },
         {
@@ -144,7 +144,7 @@
     "torrents" : [
         {
             "name" : "FileListing",
-            "url" : "http://filelisting.com/result?f=0&d=1&q=",
+            "url" : "https://filelisting.com/result?f=0&d=1&q=",
             "enableJs" : true
         },
         {
@@ -154,7 +154,7 @@
         },
         {
             "name" : "Google",
-            "url" : "http://www.google.com/search?q=intext:btih+",
+            "url" : "https://www.google.com/search?q=intext:btih+",
             "enableJs" : false
         },
         {
@@ -164,7 +164,7 @@
         },
         {
             "name" : "BTDB",
-            "url" : "http://btdb.to/q/",
+            "url" : "https://btdb.to/q/",
             "enableJs" : false
         },
         {
@@ -180,7 +180,7 @@
         {
             "name" : "Rarbg",
             "url" : "https://rarbg.to/torrents.php?search=",
-            "enableJs" : false
+            "enableJs" : true
         },
         {
             "name" : "LimeTorrent",
@@ -189,7 +189,7 @@
         },
         {
             "name" : "7Tor",
-            "url" : "http://7tor.org/search.php?sr=topics&sf=titleonly&fp=0&tracker_search=torrent&keywords=",
+            "url" : "https://7tor.org/search.php?sr=topics&sf=titleonly&fp=0&tracker_search=torrent&keywords=",
             "enableJs" : false
         }
     ]
