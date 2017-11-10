@@ -168,8 +168,13 @@
             "enableJs" : false
         },
         {
-            "name" : "Torrent Project",
-            "url" : "https://torrentproject.se/?t=",
+            "name" : "TPB",
+            "url" : "https://thepiratebay.red/search/",
+            "enableJs" : false
+        },
+        {
+            "name" : "ExtraTorrent",
+            "url" : "https://extratorrent.ag/search/?search=",
             "enableJs" : false
         },
         {
@@ -183,8 +188,8 @@
             "enableJs" : true
         },
         {
-            "name" : "LimeTorrent",
-            "url" : "https://www.limetorrents.cc/search/all/",
+            "name" : "EZTV",
+            "url" : "https://eztv.ag/search/test",
             "enableJs" : false
         },
         {
